@@ -1,2 +1,2 @@
 # laravel-filament
-Test of Filament Dashboard
+Launch ‘‘‘php artisan serve‘‘‘ and go to ‘‘‘/admin‘‘‘ route
